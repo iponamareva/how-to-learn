@@ -119,9 +119,8 @@ section {
   flex-direction: row;
   justify-content: space-between;
   margin-top: 100px;
-  margin-bottom: : 100px;
+  margin-bottom: 100px;
   width: 80%;
-
 }
 
 .two-columns__brief {
@@ -183,8 +182,6 @@ section {
 .section-subtitle_theme_dark {
   color: white;
   margin: 20px auto 80px;
-  
-
 }
 
 .table {
@@ -239,8 +236,6 @@ section {
 .table__text_theme_dark {
   color: white;
 }
-
-
 
 .feynman__title {
   width: 648px;
