@@ -42,7 +42,7 @@ section {
   background-repeat: no-repeat;
   background-position: bottom left;
   background-color: #f2f2f2;
-  padding-top: 70px;
+  padding-top: 100px;
 }
 
 .kaufman {
@@ -179,7 +179,7 @@ section {
 
 .section-title_theme_dark {
   color: white;
-  margin: 90px auto 20px;
+  margin: 90px auto 0px;
 }
 
 .section-subtitle_theme_dark {
@@ -213,13 +213,13 @@ section {
   line-height: 1.15;
   font-size: 24px;
   font-weight: bold;
-  margin: 0 0 20px 0;
+  margin: 0px;
 }
 
 .table__text {
   line-height: 1.2;
   font-size: 18px;
-  margin: 0px;
+  margin: 20px 0 0;
 }
 
 .table__cell_theme_dark {
@@ -335,7 +335,7 @@ section {
   line-height: 30px;
   font-size: 18px;
   font-weight: bold;
-  margin-bottom: 20px;
+  margin: 0 0 20px 0;
 }
 
 .footer__column-links {
