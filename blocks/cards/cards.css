@@ -2,7 +2,6 @@
 	/*height: 100px;*/
 	width: 920px;
 	display: flex;
-	border: 1px solid red;
 	margin: 0 auto;
 	justify-content: space-between;
 	align-content: flex-start;
